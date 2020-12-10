@@ -1,4 +1,4 @@
-# final-project-code-and-video-ryantoeung 
+# Shower_Time
 **Group Members**:  
 * Cory Kim  
 * Edward Hwang  
